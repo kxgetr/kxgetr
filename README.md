@@ -2,10 +2,10 @@
 
 # Hey there, I'm Mert Merkit 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=60A5FA&center=true&vCenter=true&width=550&lines=Systems+%26+Backend+Engineer;Building+Zero-Dependency+DevTools;Low-Level+Internals+%26+Concurrency;120%2B+Open+Source+Projects)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=60A5FA&center=true&vCenter=true&width=550&lines=Systems+%26+Backend+Engineer;Building+Zero-Dependency+DevTools;Fault+Tolerance+%26+Systems+Testing;125%2B+Open+Source+Projects)](https://git.io/typing-svg)
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Repos-120%2B-blue?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" />
+  <img src="https://img.shields.io/badge/Repos-125%2B-blue?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" />
   <img src="https://img.shields.io/badge/Focus-Systems%20%26%20DevTools-emerald?style=for-the-badge&logo=terminal&logoColor=white" alt="Focus" />
   <img src="https://img.shields.io/badge/Philosophy-Zero--Dependency-orange?style=for-the-badge&logo=python&logoColor=white" alt="Philosophy" />
   <img src="https://img.shields.io/badge/License-MIT-lightgrey?style=for-the-badge" alt="License" />
@@ -51,8 +51,9 @@ I specialize in **systems engineering**, **deterministic debugging**, and **zero
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>📦 DevOps & Build Integrity</h4>
+      <h4>📦 DevOps, Build & Fault Verification</h4>
       <ul>
+        <li><a href="https://github.com/kxgetr/FaultAtlas"><b>FaultAtlas 1000</b></a> — 1,000 event trace consistency & fault checkers across 40 software domains.</li>
         <li><a href="https://github.com/kxgetr/BuildDrift"><b>BuildDrift</b></a> — Byte-level reproducible build drift & archive metadata validator.</li>
         <li><a href="https://github.com/kxgetr/WheelDiff"><b>WheelDiff</b></a> — Python wheel release package diff engine (metadata, AST, entrypoints).</li>
         <li><a href="https://github.com/kxgetr/ExitContract"><b>ExitContract</b></a> — Regression detector for CLI exit codes, stdout, and stderr byte streams.</li>
