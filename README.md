@@ -32,6 +32,7 @@ I specialize in **systems engineering**, **deterministic debugging**, and **zero
     <td width="50%" valign="top">
       <h4>🔬 Deterministic Debugging & Concurrency</h4>
       <ul>
+        <li><a href="https://github.com/kxgetr/Blackout"><b>Blackout</b></a> — Process boundary crash injector & post-kill surviving state durability verifier.</li>
         <li><a href="https://github.com/kxgetr/CrashCapsule"><b>CrashCapsule</b></a> — Captures CLI crash state via runtime audit hooks into self-contained replay ZIPs.</li>
         <li><a href="https://github.com/kxgetr/RaceLatch"><b>RaceLatch</b></a> — Multithreaded race-condition detector with deterministic replay logs.</li>
         <li><a href="https://github.com/kxgetr/HeapAtlas"><b>HeapAtlas</b></a> — Weakref-driven memory leak tracker calculating shortest graph retention paths.</li>
